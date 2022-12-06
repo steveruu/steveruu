@@ -1,12 +1,12 @@
 ### steveruu
-dev. also making music
+dev. also making music  
+chronically online  
 
-https://sptfy.com/stxv
-<!--
-**steveruu/steveruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻
+[steveruu.ga](https://steveruu.ga)  
+[steveruu.github.io](https://steveruu.github.io) - planning on merging these two domains together sometime  
 
-
-- 🔭 I’m currently working on nothing...
-- 🌱 I’m currently studying in school...
-- ⚡ Fun fact: ...
--
+### 🎵
+[Spotify](https://sptfy.com/stxv)  
+[SoundCloud](https://soundcloud.com/steveruu)  
+[and more...](https://linktr.ee/steveruu)
