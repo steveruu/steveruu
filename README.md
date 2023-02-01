@@ -6,7 +6,7 @@
 ### 💻
 [steveruu.ga](https://steveruu.ga)  
 [femboy.steveruu.ga](https://femboy.steveruu.ga)  
-[phonkczsk.ga](https://phonkczsk.ga)  
+[web.phonkczsk.ga](https://web.phonkczsk.ga)  
 
 ### 🎵
 [Spotify](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L?si=1b09f1d0c37849ba)  
