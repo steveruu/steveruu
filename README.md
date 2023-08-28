@@ -3,10 +3,8 @@
 * music prod  
 
 ### 💻 
-all these domains are broken due to freenom going bankrupt lmao  
+broken due to freenom going bankrupt lmao  
 [steveruu.ga](https://steveruu.ga)  
-[femboy.steveruu.ga](https://femboy.steveruu.ga)  
-[web.phonkczsk.ga](https://web.phonkczsk.ga)  
 
 ### 🎵
 [Spotify](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L)  
