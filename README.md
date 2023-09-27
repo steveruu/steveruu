@@ -1,6 +1,6 @@
 ### steveruu
 * dev  
-* music prod  
+* retired music prod  
 
 ### 💻 
 [stvr.cz](https://stvr.cz)  
