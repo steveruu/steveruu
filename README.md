@@ -3,8 +3,7 @@
 * music prod  
 
 ### 💻 
-broken due to freenom going bankrupt lmao  
-[steveruu.ga](https://steveruu.ga)  
+[stvr.cz](https://stvr.cz)  
 
 ### 🎵
 [Spotify](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L)  
