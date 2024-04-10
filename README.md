@@ -5,9 +5,9 @@
 
 ### front-end
 **HTML, CSS, JavaScript - light intermediate**  
-**React TS - beginner**  
-[stvr.cz](https://stvr.cz)   
-[unionmc.stvr.cz](https://unionmc.stvr.cz) 
+**[React](https://github.com/holiautisti/ReactTutorials/) TS - beginner**  
+**[stvr.cz](https://stvr.cz)**   
+**[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
 
 ### back-end
 **Node.js - intermediate**  
