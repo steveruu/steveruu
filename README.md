@@ -6,8 +6,8 @@
 ### front-end
 **HTML, CSS, JavaScript - intermediate (see links below)**  
 **React + TS - beginner**  
-**[stvr.cz](https://stvr.cz)**   
 **[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
+
 
 ### back-end
 **Node.js - intermediate**  
