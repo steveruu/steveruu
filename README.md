@@ -4,8 +4,8 @@
 <a href="https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L?si=UWqFdgyYRLmk-EPvnh7Qog" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>  
 
 ### front-end
-**HTML, CSS, JavaScript - light intermediate**  
-**[React](https://github.com/holiautisti/ReactTutorials/) TS - beginner**  
+**HTML, CSS, JavaScript - intermediate (see links below)**  
+**React + TS - beginner**  
 **[stvr.cz](https://stvr.cz)**   
 **[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
 
