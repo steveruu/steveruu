@@ -6,6 +6,7 @@
 
 ### front-end
 **HTML, CSS, JavaScript - intermediate (see links below)**  
+**Bootstrap**  
 **React + TS - beginner**  
 **[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
 
