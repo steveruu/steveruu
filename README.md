@@ -17,8 +17,8 @@
 **SQL - capable but please no**  
 
 ### currently 
-**learning C++, C**  
-**interested in low-level programming**
+**learning low-level programming; C++, C**  
+**diving deeper into the world of GNU/Linux & FOSS**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steveruu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ovi" />  
 
