@@ -16,5 +16,9 @@
 **Python - beginner**  
 **SQL - capable but please no**  
 
+### currently 
+**learning C++, C**  
+**interested in low-level programming**
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steveruu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ovi" />  
 
