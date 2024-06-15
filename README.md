@@ -5,10 +5,9 @@
 **[stvr.cz](https://stvr.cz)** 
 
 ### front-end
-* **HTML, CSS, JavaScript - intermediate (see links below)**  
+* **HTML, CSS, JavaScript - [intermediate](https://unionmc.stvr.cz)**  
 * **Bootstrap**  
-* **React + TS - beginner**  
-* **[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
+* **React + TS - beginner**
 
 ### back-end
 * **Node.js - intermediate**  
