@@ -5,20 +5,20 @@
 **[stvr.cz](https://stvr.cz)** 
 
 ### front-end
-**HTML, CSS, JavaScript - intermediate (see links below)**  
-**Bootstrap**  
-**React + TS - beginner**  
-**[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
+* **HTML, CSS, JavaScript - intermediate (see links below)**  
+* **Bootstrap**  
+* **React + TS - beginner**  
+* **[unionmc.stvr.cz](https://unionmc.stvr.cz)**  
 
 ### back-end
-**Node.js - intermediate**  
-**C# - advanced**  
-**Python - beginner**  
-**SQL - capable but please no**  
+* **Node.js - intermediate**  
+* **C# - advanced**  
+* **Python - beginner**  
+* **SQL - capable but please no**  
 
 ### currently 
-**learning low-level programming; C++, C**  
-**diving deeper into the world of GNU/Linux & FOSS**
+* **learning low-level programming; C++, C**  
+* **diving deeper into the world of GNU/Linux & FOSS**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steveruu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ovi" />  
 
