@@ -6,14 +6,13 @@
 
 ### front-end
 * **HTML, CSS, JavaScript - [intermediate](https://unionmc.stvr.cz)**  
-* **Bootstrap**  
-* **React + TS - beginner**
+* **Bootstrap, Tailwind**  
+* **React + TS - advanced**
 
 ### back-end
-* **Node.js - intermediate**  
-* **C# - advanced**  
-* **Python - beginner**  
-* **SQL - capable but please no**  
+* **Next.js - beginner**
+
+**SQL - capable but please no**  
 
 ### currently 
 * **learning low-level programming; C++, C**  
