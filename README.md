@@ -15,8 +15,8 @@
 **SQL - capable but please no**  
 
 ### currently 
-* **Learning Next.js**
-* **learning low-level programming; C++, C**
+* **learning Next.js**
+* **learning low-level programming; C++, Rust**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steveruu&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ovi" />  
 
