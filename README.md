@@ -6,7 +6,7 @@
 
 ### skills
 * **HTML, CSS, JavaScript - [intermediate](https://unionmc.stvr.cz)**  
-* **Bootstrap, Tailwind**  
+* **Bootstrap, TailwindCSS**  
 * **React + TS - advanced**
 * **Next.js - beginner**
 
