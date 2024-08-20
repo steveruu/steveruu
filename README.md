@@ -4,12 +4,10 @@
 <a href="https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L?si=UWqFdgyYRLmk-EPvnh7Qog" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&logo=spotify&logoColor=white" alt="Spotify"></a>  
 **[stvr.cz](https://stvr.cz)** 
 
-### front-end
+### skills
 * **HTML, CSS, JavaScript - [intermediate](https://unionmc.stvr.cz)**  
 * **Bootstrap, Tailwind**  
 * **React + TS - advanced**
-
-### back-end
 * **Next.js - beginner**
 
 **SQL - capable but please no**  
