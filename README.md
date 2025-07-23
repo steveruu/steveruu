@@ -4,7 +4,6 @@
 <a href="https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L?si=UWqFdgyYRLmk-EPvnh7Qog" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&logo=spotify&logoColor=white" alt="Spotify"></a>  
 **[stvr.cz](https://stvr.cz)**  
 **[minjiya.com](https://minjiya.com)**  
-**[4hats.vercel.app](https://4hats.vercel.app)**  
 
 ## skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
